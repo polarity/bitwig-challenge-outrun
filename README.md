@@ -15,10 +15,11 @@ entire song... it doesn't matter, just make it!
 * Enter as many times as you'd like before the 31st of July.
 * There are no winners or rankings.
 * Have fun and think outside of the box.
-* join the discord and submit content for the next challenge
+* [join the discord](https://discord.gg/pcHDQPy) and submit content for the next challenge
 
-## List of participators
+## List of all participants
 * coming soon? link to what?...
+* ....
 
 ## More Polarity Content
 I separated all my music goodies into different repositories:
